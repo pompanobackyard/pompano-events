@@ -1,2 +1,3 @@
-# pompano-events
-Mural de eventos automatizado de Pompano Beach para uso no site do Pompano Backyard.
+# Pompano Events
+
+A modern, auto-updating event wall for Pompano Beach — embedded on the Pompano Backyard website. Powered by Eventbrite.
